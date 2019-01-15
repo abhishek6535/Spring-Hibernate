@@ -5,3 +5,5 @@ welcome to kitchen
 
 1. kheer
 2. pasta
+3. chicken
+4. mutton
